@@ -3,7 +3,6 @@
 
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 
 ny_lat_lon = [40.730610,-73.935242]
 apptitle = 'Mapa sobre viajes en uber para NY'
